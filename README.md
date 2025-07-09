@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Chungara&layout=compact&theme=dark&bg_color=0A0A0A" alt="Rene Chungara Top Languages"/>
 <br />
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rene-Chungara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Rene-Chungara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
