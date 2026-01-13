@@ -1,23 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Rene Chungara! 👋
 
-<!--
-**Rene-Chungara/Rene-Chungara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Systems Engineering Student | Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado en transición hacia el mundo **DevOps**. Me encanta construir soluciones robustas con **Node.js & Angular**, y actualmente estoy profundizando en la automatización, CI/CD y gestión de servidores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rene-Chungara&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Rene Chungara Github Stats">
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Chungara&layout=compact&theme=dark&bg_color=0A0A0A" alt="Rene Chungara Top Languages"/>
-<br />
+Actualmente estoy finalizando mi titulación con un Diplomado en **DevOps Essentials** y trabajando como **IT Intern**
+---
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Rene-Chungara&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+### 🛠️ Tech Stack & Tools
+
+**Backend & Scripting:**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Csharp" />
+</p>
+
+**Frontend & Mobile:**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+**DevOps & Database:**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🚀 Featured Project: StreamingRC
+
+Plataforma de gestión y venta de servicios de streaming, desplegada y en producción.
+* **Live Demo:** [streamingrc.com](https://streamingrc.com) | [xrecm.es](https://xrecm.es)
+* **Tech:** Solución robusta enfocada en escalabilidad.
+
+---
+
+### ⚡ Current Focus & Philosophy
+
+* 🌱 Aprendiendo: **CI/CD Pipelines, Azure DevOps & Advanced Docker**.
+* 💼 Experiencia previa: Configuración de servidores **NAS Synology** y Backups (Expresiva).
+* 🤖 **AI Mindset:** Uso la Inteligencia Artificial como un copiloto para agilizar el desarrollo, enfocándome siempre en entender la lógica detrás del código generado.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rene-Chungara&show_icons=true&theme=tokyonight&hide_border=true" alt="Rene's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Chungara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
