@@ -51,6 +51,6 @@ Plataforma de gestión y venta de servicios de streaming, desplegada y en produc
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rene-Chungara&show_icons=true&theme=tokyonight&hide_border=true" alt="Rene's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Chungara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://stadistic-profile-git.vercel.app/api?username=Rene-Chungara&show_icons=true&theme=tokyonight&hide_border=true" alt="Rene's GitHub stats" />
+<img src="https://stadistic-profile-git.vercel.app/api/top-langs/?username=Rene-Chungara&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
