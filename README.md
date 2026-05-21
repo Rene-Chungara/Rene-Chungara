@@ -35,7 +35,7 @@ Actualmente estoy finalizando mi titulación con un Diplomado en **DevOps Essent
 ### 🚀 Featured Project: StreamingRC
 
 Plataforma de gestión y venta de servicios de streaming, desplegada y en producción.
-* **Live Demo:** [streamingrc.com](https://streamingrc.com) | [xrecm.es](https://xrecm.es)
+* **Live Demo:** [streamingrc.com](https://streamingrc.com) | [code.xrecm.es](https://code.xrecm.es)
 * **Tech:** Solución robusta enfocada en escalabilidad.
 
 ---
